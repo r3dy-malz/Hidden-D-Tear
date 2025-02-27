@@ -7,3 +7,34 @@ c:\users\utku\documents\visual studio 2013\Projects\hidden-tear\hidden-tear\obj\
 c:\users\utku\documents\visual studio 2013\Projects\hidden-tear\hidden-tear\obj\Debug\hidden-tear.exe
 c:\users\utku\documents\visual studio 2013\Projects\hidden-tear\hidden-tear\obj\Debug\hidden-tear.pdb
 C:\Users\utku\Documents\Visual Studio 2013\Projects\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csprojResolveAssemblyReference.cache
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe.config
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\hidden-tear.pdb
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Buffers.dll
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.IO.Pipelines.dll
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Memory.dll
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Text.Json.dll
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.ValueTuple.dll
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Buffers.xml
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.IO.Pipelines.xml
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Memory.xml
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Text.Json.xml
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\bin\Debug\System.ValueTuple.xml
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csproj.AssemblyReference.cache
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Form1.resources
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Properties.Resources.resources
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csproj.GenerateResource.cache
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csproj.CoreCompileInputs.cache
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\obj\Debug\hidden-t.DBB0C6B9.Up2Date
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\obj\Debug\hidden-tear.exe
+C:\Users\r3dy\source\repos\r3dy-malz\Hidden-D-Tear\hidden-tear\hidden-tear\obj\Debug\hidden-tear.pdb
