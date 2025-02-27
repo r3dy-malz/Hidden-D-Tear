@@ -2,6 +2,8 @@
 It's a ransomware-like file crypter sample which can be modified for specific purposes.
 Here, I add anti-debug tricks and a bit of obfuscation (Encrypted communication with attacker platform).
 
+Executables inside obj & debug, know what's your doing ! :)
+
 ## **Features**
 * Uses AES algorithm to encrypt files.
 * Sends encryption key to a server (Base64URL + AES Encrypted).
